@@ -57,3 +57,6 @@ Ensure that you have appropriate permissions and access rights before running th
 For any questions or issues related to this script, please open an issue on the GitHub repository or reach out to me via email on chriscloudaz@gmail.com.
 
 Happy artifact management with Nexus!
+
+Also I have tried to check the logs by running
+tail -f /opt/sonatype-work/nexus3/log/nexus.log
